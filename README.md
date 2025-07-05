@@ -118,9 +118,9 @@ Codtech-Data-Science-Internship-Tasks/
 | Tasks                  | Screenshot                           |
 | ---------------------- | ------------------------------------ |
 | ETL Pipeline           | ![](Screenshots/Task1_Output.png)    |
-| Deep Learning Accuracy | ![](screenshots/Task2_Output.png) |
-| Streamlit App          | ![](screenshots/task3_streamlit.png) |
-| Optimization Results   | ![](screenshots/task4_output.png)    |
+| Deep Learning Accuracy | ![](Screenshots/Task2_Output.png) |
+| Streamlit App          | ![](Screenshots/task3_streamlit.png) |
+| Optimization Results   | ![](Screenshots/task4_output.png)    |
 
 ---
 
