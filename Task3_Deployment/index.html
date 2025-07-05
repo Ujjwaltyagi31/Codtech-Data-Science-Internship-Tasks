@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>House Price Predictor</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h2>Enter Housing Features</h2>
+    <form action="/predict" method="POST">
+        {% for i in range(8) %}
+            <input type="number" step="any" name="feature{{i}}" placeholder="Feature {{i+1}}" required><br><br>
+        {% endfor %}
+        <input type="submit" value="Predict">
+    </form>
+    <h3>{{ prediction_text }}</h3>
+</body>
+</html>
