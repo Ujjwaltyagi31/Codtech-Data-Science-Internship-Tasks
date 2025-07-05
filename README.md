@@ -44,7 +44,7 @@ Codtech-Data-Science-Internship-Tasks/
 ├── Task4_Optimization/
 │   └── optimization_model.py
 │
-├── screenshots/
+├── Screenshots/
 │   ├── task1_output.png
 │   ├── task2_accuracy.png
 │   └── ...
