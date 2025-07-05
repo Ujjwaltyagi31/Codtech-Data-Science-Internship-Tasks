@@ -37,9 +37,13 @@ Codtech-Data-Science-Internship-Tasks/
 │   └── README.md 
 │
 ├── Task3_Deployment/
-│   ├── streamlit_app.py
-│   ├── model.pkl
-│   └── requirements.txt
+│   ├── app.py                     # Flask app
+│   ├── model.pkl                  # Trained model (saved with joblib)
+│   ├── scaler.pkl
+│   ├── index.html                 # Input form UI
+│   ├── style.css                  # Webpage styling
+│   ├── prediction_script.py       # Model training
+│   ├── README.md                  # Project Documentation
 │
 ├── Task4_Optimization/
 │   └── optimization_model.py
