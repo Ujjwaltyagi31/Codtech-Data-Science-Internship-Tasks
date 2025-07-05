@@ -83,4 +83,11 @@ Successfully developed and deployed a Flask-based ML web app that accepts user i
 ## 🏅 Internship
 This project is part of the Data Science Internship offered by CodTech IT Solutions.
 
+## 🌐 Live Deployment
+The project has been successfully deployed and is accessible online.
+
+👉 Click Here to Try the Live House Price Predictor :- https://house-price-predictor-elqn.onrender.com
+
+📌 Note: The web app may take a few seconds to load initially due to free hosting server spin-up.
+
 ### Building models is great, but making them accessible to the world is even better. Task 3 taught me how to do both!
