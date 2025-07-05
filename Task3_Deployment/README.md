@@ -77,11 +77,17 @@ Task3_Deployment/
    git clone https://github.com/your-username/codtech-internship-tasks.git
    cd Task3_Deployment
 
+---
+
 ## ✅ Outcome
 Successfully developed and deployed a Flask-based ML web app that accepts user inputs and returns predicted house prices in real-time.
 
+---
+
 ## 🏅 Internship
 This project is part of the Data Science Internship offered by CodTech IT Solutions.
+
+---
 
 ## 🌐 Live Deployment
 The project has been successfully deployed and is accessible online.
@@ -90,4 +96,5 @@ The project has been successfully deployed and is accessible online.
 
 📌 Note: The web app may take a few seconds to load initially due to free hosting server spin-up.
 
+---
 ### Building models is great, but making them accessible to the world is even better. Task 3 taught me how to do both!
