@@ -33,8 +33,8 @@ Codtech-Data-Science-Internship-Tasks/
 │   └── Readme.md
 │
 ├── Task2_DL/
-│   ├── image_classification_cnn.ipynb
-│   └── dataset/
+│   ├── Deep_Learning_image_classification.py
+│   └── README.md 
 │
 ├── Task3_Deployment/
 │   ├── streamlit_app.py
