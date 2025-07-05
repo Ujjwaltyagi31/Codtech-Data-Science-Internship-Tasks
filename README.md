@@ -45,8 +45,8 @@ Codtech-Data-Science-Internship-Tasks/
 │   └── optimization_model.py
 │
 ├── Screenshots/
-│   ├── Task1_Process.jpg
-│   ├── task2_accuracy.png
+│   ├── Task1_Output.png
+│   ├── Task2_Output.png
 │   └── ...
 │
 ├── .gitignore
@@ -117,8 +117,8 @@ Codtech-Data-Science-Internship-Tasks/
 
 | Tasks                  | Screenshot                           |
 | ---------------------- | ------------------------------------ |
-| ETL Pipeline Process   | ![](Screenshots/Task1_Process.jpg)    |
-| Deep Learning Accuracy | ![](screenshots/task2_accuracy.png)  |
+| ETL Pipeline           | ![](Screenshots/Task1_Output.png)    |
+| Deep Learning Accuracy | ![](screenshots/Task2_Output.png)    |
 | Streamlit App          | ![](screenshots/task3_streamlit.png) |
 | Optimization Results   | ![](screenshots/task4_output.png)    |
 
