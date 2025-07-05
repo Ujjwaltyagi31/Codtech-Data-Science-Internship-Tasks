@@ -27,19 +27,21 @@ The goal of this internship was to apply theoretical data science concepts to **
 ```plaintext
 Codtech-Data-Science-Internship-Tasks/
 │
-├── task1-etl-pipeline/
+├── Task1_ETL/
 │   └── etl_script.py
+│   └── Iris.csv
+│   └── Readme.md
 │
-├── task2-deep-learning/
+├── Task2_DL/
 │   ├── image_classification_cnn.ipynb
 │   └── dataset/
 │
-├── task3-end-to-end-ml/
+├── Task3_Deployment/
 │   ├── streamlit_app.py
 │   ├── model.pkl
 │   └── requirements.txt
 │
-├── task4-optimization/
+├── Task4_Optimization/
 │   └── optimization_model.py
 │
 ├── screenshots/
@@ -47,8 +49,9 @@ Codtech-Data-Science-Internship-Tasks/
 │   ├── task2_accuracy.png
 │   └── ...
 │
-├── README.md
+├── .gitignore
 └── LICENSE
+└── README.md
 ```
 
 ---
