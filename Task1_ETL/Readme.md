@@ -6,7 +6,7 @@ This project is part of my internship with **CodTech IT Solutions**, focusing on
 
 ## 📌 Objective
 
-To automate the data pipeline process which includes:
+To automate the data pipeline process, which includes:
 - Loading raw data
 - Preprocessing (cleaning, encoding, scaling)
 - Splitting the dataset
@@ -64,10 +64,15 @@ To automate the data pipeline process which includes:
 2. Run the `etl_pipeline.py` script using any Python IDE or Google Colab.
 3. Make sure `Iris.csv` is in the same directory before running.
 
+---
+
 ## ✅ Outcome
 Successfully created an automated ETL pipeline that prepares a dataset for modeling by cleaning, encoding, and scaling. The processed data is now ready for machine learning model training.
+
+---
 
 ## 🏅 Internship
 This task was completed as part of the Data Science Internship offered by CodTech IT Solutions.
 
+---
 ### This task not only strengthened my skills in data preprocessing and pipeline automation but also laid a strong foundation for building real-world data science solutions. Looking forward to more challenges ahead in this exciting journey!
