@@ -55,7 +55,7 @@ As a substitute for the California Housing dataset, a similar synthetic regressi
 ---
 
 ## 📁 Project Structure
-
+```bash
 Task3_Deployment/
 │
 ├── app.py                     # Flask app
