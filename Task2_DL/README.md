@@ -108,5 +108,5 @@ This project was completed as part of the **Data Science Internship** with [CodT
 
 ---
 
-> _"Learning never exhausts the mind, it only fuels innovation. Task 2 completed with clarity and confidence!"_
+### Learning never exhausts the mind,it only fuels innovation. Task 2 completed with clarity and confidence!
 
