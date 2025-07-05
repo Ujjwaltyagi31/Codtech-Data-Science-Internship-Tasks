@@ -5,7 +5,7 @@ This repository documents my hands-on learning experience and practical work dur
 
 * ✅ ETL (Extract, Transform, Load) Processes
 * ✅ Deep Learning using CNN
-* ✅ End-to-End Machine Learning with Deployment
+* ✅ End-to-End Data Science Project with Deployment
 * ✅ Mathematical Optimization with Python
 
 ---
