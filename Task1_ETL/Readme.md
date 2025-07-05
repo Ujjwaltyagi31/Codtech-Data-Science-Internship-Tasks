@@ -70,4 +70,4 @@ Successfully created an automated ETL pipeline that prepares a dataset for model
 ## 🏅 Internship
 This task was completed as part of the Data Science Internship offered by CodTech IT Solutions.
 
-### "This task not only strengthened my skills in data preprocessing and pipeline automation but also laid a strong foundation for building real-world data science solutions. Looking forward to more challenges ahead in this exciting journey!"
+### This task not only strengthened my skills in data preprocessing and pipeline automation but also laid a strong foundation for building real-world data science solutions. Looking forward to more challenges ahead in this exciting journey!
