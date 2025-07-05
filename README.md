@@ -25,7 +25,7 @@ The goal of this internship was to apply theoretical data science concepts to **
 ## 📁 Repository Structure
 
 ```plaintext
-codtech-data-science-internship/
+Codtech-Data-Science-Internship-Tasks/
 │
 ├── task1-etl-pipeline/
 │   └── etl_script.py
