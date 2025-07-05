@@ -84,7 +84,7 @@ Codtech-Data-Science-Internship-Tasks/
 
 ---
 
-### 🌐 Task 3: End-to-End ML Project with Deployment
+### 🌐 Task 3: End-to-End Data Science Project with Deployment
 
 * **Objective**: Develop an ML model from scratch, perform EDA, train and test, and finally deploy using Streamlit.
 * **Workflow**:
@@ -92,7 +92,7 @@ Codtech-Data-Science-Internship-Tasks/
   * Data Preprocessing
   * Exploratory Data Analysis (EDA)
   * Model Training & Evaluation
-  * Save model using Pickle
+  * Save the model using Pickle
   * Deploy with a simple and responsive Streamlit interface
 * **Tools**: Scikit-learn, Pandas, Seaborn, Streamlit
 * **Output**: A live web app where users can input values and get predictions in real time
