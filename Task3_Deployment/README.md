@@ -66,6 +66,7 @@ Task3_Deployment/
 ├── prediction_script.py       # Model training
 ├── README.md                  # Project Documentation
 
+```
 
 ---
 
@@ -75,3 +76,11 @@ Task3_Deployment/
    ```bash
    git clone https://github.com/your-username/codtech-internship-tasks.git
    cd Task3_Deployment
+
+## ✅ Outcome
+Successfully developed and deployed a Flask-based ML web app that accepts user inputs and returns predicted house prices in real-time.
+
+## 🏅 Internship
+This project is part of the Data Science Internship offered by CodTech IT Solutions.
+
+### Building models is great, but making them accessible to the world is even better. Task 3 taught me how to do both!
